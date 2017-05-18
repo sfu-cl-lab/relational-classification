@@ -5,7 +5,7 @@ Input:
 
 1. A relational database
 2. A target instance (e.g. genre(BraveHeart) in IMDB)
-3. A learned Bayesian network (using [FactorBase](https://github.com/sfu-cl-lab/FactorBase).
+3. A learned Bayesian network (using [FactorBase])(https://github.com/sfu-cl-lab/FactorBase).
 
 Output: A probability distribution over values of the target instance. 
 
