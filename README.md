@@ -10,5 +10,5 @@ Input:
 Output: A probability distribution over values of the target instance. 
 
 Implements our relational dependency network formula from the paper [
-Fast Learning of Relational Dependency Networks] (http://www.cs.sfu.ca/~oschulte/pubs.html). 
+Fast Learning of Relational Dependency Networks] (http://www.cs.sfu.ca/~oschulte/pubs.html). See also the [tutorial](https://oschulte.github.io/srl-tutorial-slides/ch5-rel-bayes-net-classifier.pptx).
 
