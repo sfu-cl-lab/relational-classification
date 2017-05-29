@@ -5,10 +5,10 @@ Input:
 
 1. A relational database
 2. A target instance (e.g. genre(BraveHeart) in IMDB)
-3. A learned Bayesian network (using [FactorBase])(https://github.com/sfu-cl-lab/FactorBase).
+3. A learned Bayesian network (using [FactorBase](https://github.com/sfu-cl-lab/FactorBase)).
 
 Output: A probability distribution over values of the target instance. 
 
 Implements our relational dependency network formula from the paper [
-Fast Learning of Relational Dependency Networks] (http://www.cs.sfu.ca/~oschulte/pubs.html). See also the [tutorial](https://oschulte.github.io/srl-tutorial-slides/ch5-rel-bayes-net-classifier.pptx).
+Fast Learning of Relational Dependency Networks](http://www.cs.sfu.ca/~oschulte/pubs.html). See also the [tutorial](https://oschulte.github.io/srl-tutorial-slides/ch5-rel-bayes-net-classifier.pptx).
 
